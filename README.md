@@ -14,15 +14,15 @@ README.md: Project documentation
    
    ![Original Data Distribution](Images/original_data_distribution.jpg)
 
-3. **Legit vs Fraudulent Transactions Analysis**
+2. **Legit vs Fraudulent Transactions Analysis**
    
    ![Legit and Fraudulent Transactions Analysis](Images/legit_fraudulent_transactions_analyze.jpg)
 
-4. **Overview of Original DataFrame**
+3. **Overview of Original DataFrame**
    
    ![Overview of Original DataFrame](Images/overview_original_dataframe.jpg)
 
-6. **Mean Comparison by Class in Original Data**
+4. **Mean Comparison by Class in Original Data**
    
    ![Mean Comparison - Original Data](Images/original_data_compare_by_mean.jpg)
 
@@ -38,6 +38,6 @@ README.md: Project documentation
 
 **Performance Evaluation**
 
-6. **Classification Report for Model Evaluation**
+7. **Classification Report for Model Evaluation**
 
    ![Classification Report](Images/classification_report.jpg)
