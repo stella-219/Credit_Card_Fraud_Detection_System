@@ -32,6 +32,10 @@ README.md: Project documentation
 
    ![Mean Comparison - New Dataset](Images/new_dataset_compare_by_mean.jpg)
 
+6.**Distribution of Transaction Time and Amount (New Dataset)**
+
+   ![New Data Distribution](Images/new_dataset_distribution.jpg)
+
 **Performance Evaluation**
 
 6. **Classification Report for Model Evaluation**
